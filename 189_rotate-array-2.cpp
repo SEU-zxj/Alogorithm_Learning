@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
 //decrease the space complexity
 class Solution {
 public:
