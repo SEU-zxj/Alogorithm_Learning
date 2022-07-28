@@ -6,8 +6,5 @@ int myFunc(int a)
 }
 int main()
 {
-    cout << myFunc(5);
-    cout << "\n" << 1 + 1;
-    cout << myFunc(5);
-    cout << "Test for git diff";
+    cout << static_cast<int>('a') - 97;
 }
